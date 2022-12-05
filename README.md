@@ -9,17 +9,17 @@ edit file conf.js
 ```javascript
 var config = {
 
-loginvc : "Masukkan Kode Voucher kemudian klik Connect.",
-loginup : "Masukkan Username dan Password <br> kemudian klik Connect.",
-voucherCode : "Kode Voucher",
+loginvc : "Enter the voucher code then click CONNECT.",
+loginup : "Enter the username and password <br> then click CONNECT.",
+voucherCode : "Code Voucher",
 setCase : "none", // lowercase, uppercase or none
 defaultMode : "voucher", // voucher or member
 theme : "default", // default, dark, lite
 
 // status expire
 
-url : "https://demo.mikhmon.online", // url server Mikhmon
-SessionName : "demo", 
+url : "jrnl.swiftlink", // url server Mikhmon
+SessionName : "swiftlink", 
 
 }
 ```
