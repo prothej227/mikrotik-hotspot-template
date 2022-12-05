@@ -3,8 +3,8 @@
 ## config
 edit file conf.js
 
-- setCase : untuk mengatur input huruf besar(uppercase) atau huruf kecil(lowercase).
-- defaultMode : mengatur tampilan utama login page, voucher atau member(user & password).
+- setCase : to set uppercase or lowercase input..
+- defaultMode : set the main view of the login page, voucher or member (user & password).
 
 ```javascript
 var config = {
